@@ -8,6 +8,7 @@
 You can find me on:
 
 [🌐 felipenipper.com][2]
+
 [![LinkedIn][1.2] Linkedin][1].
 
 <!-- Icons -->

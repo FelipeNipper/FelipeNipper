@@ -9,7 +9,7 @@ You can find me on:
 
 [![LinkedIn][1.2]][1] Linkedin.
 
-🌐 ![felipenipper.com][2]
+🌐 felipenipper.com[2]
 
 
 <!-- Icons -->

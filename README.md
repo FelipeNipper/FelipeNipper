@@ -1,6 +1,7 @@
 ## Hi there, I'm Felipe 👋
 
 - 🖥 iOS Developer 
+-  WWDC22 Swift Student Challenge Winner
 - 👨🏻‍🎓 Software Engineering student at PUCRS
 
 <!-- Actual text -->

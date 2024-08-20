@@ -2,7 +2,7 @@
 
 - 🖥 iOS Developer 
 -  WWDC22 Swift Student Challenge Winner
-- 👨🏻‍🎓 Software Engineering student at PUCRS
+- 👨🏻‍🎓 Software Engineering Alumni at PUCRS
 
 <!-- Actual text -->
 
